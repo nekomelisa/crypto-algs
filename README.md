@@ -59,8 +59,7 @@ Potential future work includes the development of more secure protocols, adaptiv
 - `ecdh/` – Code for Elliptic Curve Diffie-Hellman (ECDH) and AES integration.
 - `elgamal/` – Implementation of the Twisted ElGamal scheme and BSGS algorithm.
 - `schnorr/` – Individual and group Schnorr digital signature schemes, implementation of the MuSig protocol.
-- `docs/` – Documentation and theoretical analysis.
-- Additional files and scripts as needed.
+
 
 ## Acknowledgements
 
